@@ -1,5 +1,5 @@
 # google-code-prettify-color-theme
-Dark Updated Theme for google code prettify
+Dark Updated Theme for google code prettify :sunglasses:
 
 A Dark cool looking theme for google code prettify.
 ![google-code-prettify](https://github.com/PC-HUB/google-code-prettify-color-theme/blob/master/screenshot.jpg)
@@ -24,3 +24,7 @@ If you do not wish to add line numbers then you can simply remove `linenums` fro
     ...
 </pre> 
 ```
+
+To get more themes visit: https://cdn.rawgit.com/google/code-prettify/master/styles/index.html
+
+I've edited Sunburst theme to make it look more pretty and readable with cool line numbers. I hope you'll like it and you are free to edit/update this theme as per your needs :wink:
