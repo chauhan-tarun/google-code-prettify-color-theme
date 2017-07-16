@@ -13,12 +13,6 @@ pre .atn, code .atn { color: #bdb76b; } /* html/xml attribute name  - khaki */
 pre .atv, code .atv { color: #65B042; } /* html/xml attribute value - green */
 pre .dec, code .dec { color: #3387CC; } /* decimal - blue */
 
-pre.prettyprint {
-	background-color: #020209;
-	border-radius: 8px;
-	font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-}
-
 code.prettyprint {
 	background-color:#020209;
 	border-radius:3px;
@@ -28,6 +22,9 @@ code.prettyprint {
 }
 
 pre.prettyprint {
+	background-color: #020209;
+	border-radius: 8px;
+	font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 	width: 95%;
 	max-height: 400px;
 	margin: 10px auto; 
